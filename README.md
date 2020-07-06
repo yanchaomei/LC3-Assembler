@@ -1,2 +1,3 @@
 # LC3-Assembler
 Assembler achieved with Python
+用Python实现的将计算机系统概论这本书上介绍的LC3指令集的一个汇编器，能够将输入的asm文件转换为对应的机器语言
